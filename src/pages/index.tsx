@@ -27,9 +27,9 @@ export default function Home() {
         <div className={styles.overlay}></div>
         <div className={styles.bottomRightBox}>
           <p className={styles.text}>Jaival Patel</p>
-          <p className={styles.text}>2nd Year Engineering Science majoring in Aerospace with a Minor in Robotics</p>
-          <p className={styles.text}>My focus is in Power Electronics for High-Powered Vehicles </p>
-          <p className={styles.text}>Research @ ISML University of Toronto</p>
+          <p className={styles.text}>2nd Year Engineering Science majoring in Aerospace with a Minor in Robotics.</p>
+          <p className={styles.text}>My focus is on Space Systems accelerating multiplanetary discovery. </p>
+          <p className={styles.text}>Research @ ISML University of Toronto.</p>
           <p className={styles.text}>UTAT Software Lead and Hardware Engineer.</p>
           <p className={styles.text}>Prior to that</p>
           <p className={styles.text}>Flight System Intern at LUNR.</p>
