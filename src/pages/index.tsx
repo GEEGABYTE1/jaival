@@ -23,7 +23,7 @@ export default function Home() {
   return (
     <>
       <div className={styles.background}>
-        <Image src='/images/please.jpeg' layout='fill' objectFit='cover' quality={100} />
+        <Image alt='background' src='/images/please.jpeg' layout='fill' objectFit='cover' quality={100} />
         <div className={styles.overlay}></div>
         <div className={styles.bottomRightBox}>
           <p className={styles.text}>Jaival Patel</p>
